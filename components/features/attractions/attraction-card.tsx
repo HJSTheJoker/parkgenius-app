@@ -181,7 +181,7 @@ export function AttractionCard({
 
           {attraction.details.height_requirement && (
             <div className="flex items-center gap-1">
-              📏 {attraction.details.height_requirement}&quot;+ required
+              📏 {attraction.details.height_requirement}"+ required
             </div>
           )}
 
